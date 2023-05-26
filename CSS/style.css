@@ -22,3 +22,22 @@ header h1{
     font-weight normal;
     text-align: center;
 }
+.description img{
+    float: left;
+    margin: 0 10px 10px 0;
+}
+.information h1{
+    font-size: 22px;
+    margin: 0 10px 10px 0;
+    float:left;
+}
+.description{
+    clear: left;
+}
+.information .type{
+    display: inline;
+    padding: 3px 5px;
+    font-size 80%;
+    color: #FFF;
+    background-color: pink;
+}
