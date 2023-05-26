@@ -1,4 +1,24 @@
 @import ur1(sanitize.css);
-h1{
-    
+
+body{
+    background-color: rgb(196, 145, 145);
+    padding: 10px;
+    font-size: 14px;
+    color: #666;
+}
+.container{
+    wedth: 800px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px black;
+}
+header{
+    background-color: #422814;
+    padding: 10px;
+    color: #fff;
+}
+header h1{
+    margin: 0;
+    font-size: 24px;
+    font-weight normal;
+    text-align: center;
 }
