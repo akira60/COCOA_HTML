@@ -76,3 +76,7 @@ header h1{
     display:table;
     clear:both;
 }
+a{
+    color: #666;
+    text-decoration: none;
+}
